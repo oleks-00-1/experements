@@ -1,0 +1,3 @@
+First of all - ffmpeg must be installed - apt update; apt intall ffmpeg.
+Then change file name in var INPUT=
+Now the script can be run
